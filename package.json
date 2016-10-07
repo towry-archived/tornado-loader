@@ -1,0 +1,19 @@
+{
+  "name": "tornado-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "loader"
+  ],
+  "author": "Towry Wang",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.16",
+    "request": "^2.75.0"
+  }
+}
